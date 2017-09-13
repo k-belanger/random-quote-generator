@@ -3,6 +3,7 @@ body {
   background-color: #36b55c;
   color: white;
   font-family: 'Playfair Display', serif;
+  transition: background-color .25s;
 }
 #quote-box {
   position: absolute;
@@ -72,7 +73,7 @@ body {
   transition: .5s ;
 }
 #loadQuote:hover {
-  background-color: rgba(255,255,255,.25);
+  background-color: rgba(255,255,255,.25) !important;;
 }
 #loadQuote:focus {
   outline: none;
