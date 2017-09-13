@@ -8,7 +8,7 @@ September 13, 2017
 Create an app that displays random quotes each time a button is clicked using JavaScript and complete all "Exceeds Expectation" criteria.
 
 ## Project Functions:
-When button is clicked a random quote from the quotes array, with author and optional citation and year is displayed on the screen.
+When button is clicked a random quote from the quotes array, with author and optional citation and year, is displayed on the screen.
 
 ## Exceeds Expectations:
 - The background color of page and of the button randomly changes when a new quote is displayed. No color is repeated until all the colors have been used.
