@@ -1,6 +1,6 @@
 # Random Quote Generator
 ### Project 1 - Treehouse Full Stack JS TechDegree
-by Kimberly Belanger
+by Kimberly Belanger 
 September 13, 2017
 
 
