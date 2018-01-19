@@ -1,10 +1,9 @@
 # Random Quote Generator
-
-View Project at : https://k-belanger.github.io/random-quote-generator/
-
 ### Project 1 - Treehouse Full Stack JS TechDegree
 by Kimberly Belanger<br/>
 September 13, 2017
+
+View Project at : https://k-belanger.github.io/random-quote-generator
 
 ## Project Objective:
 Create an app that displays random quotes each time a button is clicked using JavaScript and complete all "Exceeds Expectation" criteria.
